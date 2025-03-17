@@ -19,8 +19,7 @@
 #### :mortar_board: Computer Engineering, Kwangwoon University(Seoul) <br/>
 
 #### :email: devjin95@gmail.com <br/>
-
-
+<br/>
 
 ## 👨‍💻 Tech
 <!--ver.1 -->
@@ -42,9 +41,10 @@
 #### : Database
 <!--ORACLE Badge-->
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oculus&logoColor=white"><!-- SQL-Server Badge --> <img src="https://img.shields.io/badge/MS SQL-696969?style=flat-square&logo=threedotjs&logoColor=white"/><!-- Mysql Badge --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><!-- MariaDB Badge --> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDBFoundation&logoColor=white"/>  <img src="https://img.shields.io/badge/Tibero-050A52?style=flat-square&logo=thingiverse&logoColor=white"/>
-
-
-
+<br/>
+#### : Studying
+<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<br/>
 ## 🛠️  Tools
 
 #### : IDE
@@ -53,7 +53,7 @@
 
 #### : Collaboration
 <!-- Git -->
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><!-- Slack Badge --> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"><!-- Slack Badge --> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
  <!-- Post Man --> 
   <!--<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">--> 
   <!-- GithubActions --> 
@@ -82,6 +82,7 @@
 <!--
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white">
 -->
+<br/>
 
 ## :eyes: Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJin95)](https://github.com/)
