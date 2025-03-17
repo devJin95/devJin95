@@ -41,7 +41,7 @@
 
 #### : Database
 <!--ORACLE Badge-->
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=abbvie&logoColor=white"><!-- SQL-Server Badge --> <img src="https://img.shields.io/badge/MS%E3%85%A1SQL-696969?style=flat-square&logo=threedotjs&logoColor=white"/><!-- Mysql Badge --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><!-- MariaDB Badge --> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDBFoundation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oculus&logoColor=white"><!-- SQL-Server Badge --> <img src="https://img.shields.io/badge/MS SQL-696969?style=flat-square&logo=threedotjs&logoColor=white"/><!-- Mysql Badge --> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><!-- MariaDB Badge --> <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=MariaDBFoundation&logoColor=white"/>  <img src="https://img.shields.io/badge/Tibero-050A52?style=flat-square&logo=thingiverse&logoColor=white"/>
 
 
 
@@ -49,23 +49,33 @@
 
 #### : IDE
 <!--Eclipse-->
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/InteliJ-ED1965?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/InteliJ-ED1965?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-1867C0?style=flat-square&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2983?style=flat-square&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"> 
 
 #### : Collaboration
 <!-- Git -->
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><!-- Slack Badge --> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white">
-
-<!-- GithubActions --> <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
-<!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<!-- Jenkins --> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-<!-- apachekafka --> <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-<!-- NginX --> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
-<!-- Amazon Web Service --> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
-<!-- Amazon Lamda --> <img src="https://img.shields.io/badge/AWSLambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">
-<!-- GraphQL --> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"><!-- Slack Badge --> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+ <!-- Post Man --> 
+  <!--<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">--> 
+  <!-- GithubActions --> 
+  <!--<img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=githubactions&logoColor=white">--> 
+  <!-- Docker --> 
+  <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">--> 
+  <!-- Jenkins --> 
+  <!--<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">--> 
+  <!-- apachekafka --> 
+  <!--<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">--> 
+  <!-- NginX --> 
+  <!--<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">--> 
+  <!-- Amazon Web Service --> 
+  <!--<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">--> 
+  <!-- Amazon Lamda --> 
+  <!--<img src="https://img.shields.io/badge/AWSLambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">--> 
+  <!-- GraphQL --> 
+  <!--<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">--> 
 
 <!-- aws -->
 <!--
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=abbvie&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=aws&logoColor=white">
 -->
 <!-- node JS -->
