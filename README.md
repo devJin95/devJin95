@@ -44,7 +44,7 @@
 <br/>
 
 #### : Studying
-<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"> 
 <br/>
 ## 🛠️  Tools
 
@@ -53,8 +53,14 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/InteliJ-ED1965?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-1867C0?style=flat-square&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2983?style=flat-square&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"> 
 <br/>
 #### : Collaboration
-<!-- Git -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"><!-- Slack Badge --> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+<!-- Slack Badge --> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> 
+<br/>
+#### : Management
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
+<br/>
+#### : Test
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"> <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white"> 
  <!-- Post Man --> 
   <!--<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white">--> 
   <!-- GithubActions --> 
