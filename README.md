@@ -47,7 +47,6 @@
 <img src="https://img.shields.io/badge/ApacheKafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"> 
 <br/>
 ## 🛠️  Tools
-
 #### : IDE
 <!--Eclipse-->
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"> <img src="https://img.shields.io/badge/InteliJ-ED1965?style=flat-square&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-1867C0?style=flat-square&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-5C2983?style=flat-square&logo=virustotal&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"> 
