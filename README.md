@@ -78,7 +78,7 @@
   <!--<img src="https://img.shields.io/badge/AWSLambda-FF9900?style=flat-square&logo=awslambda&logoColor=white">--> 
   <!-- GraphQL --> 
   <!--<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white">--> 
-
+ 
 <!-- aws -->
 <!--
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=abbvie&logoColor=white">
