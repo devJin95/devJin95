@@ -16,7 +16,7 @@
 
 #### :pencil: I will strive to gain more knowledge.  <br/>
 
-#### :mortar_board: Computer Engineering, Kwangwoon University(Seoul) <br/>
+<!--#### :mortar_board: Computer Engineering, Kwangwoon University(Seoul) <br/>-->
 
 #### :email: devjin95@gmail.com <br/>
 <br/>
