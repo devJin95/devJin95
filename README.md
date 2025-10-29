@@ -53,7 +53,7 @@
 <br/>
 #### : Collaboration
 <!-- Slack Badge --> 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> 
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><!-- Trello Badge --> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/><!-- Notion --> <img src="https://img.shields.io/badge/Notion-F7A81B?style=flat-square&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Clickup-4A154B?style=flat-square&logo=Clickup&logoColor=white"/><!-- Trello Badge --> 
 <br/>
 #### : Management
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><!-- Github --> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white">
