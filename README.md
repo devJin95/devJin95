@@ -92,8 +92,8 @@
  
 ## :eyes: Github Stats
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJin95)](https://github.com/)
-  
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJin95)](https://github.com/)-->
+
 <!-- README.md by cho95 -->
 
 
