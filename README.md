@@ -91,7 +91,6 @@
 <br/>
  
 ## :eyes: Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJin95)](https://github.com/)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devJin95)](https://github.com/)
   
